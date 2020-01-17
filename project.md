@@ -1,4 +1,4 @@
-﻿﻿## Assignment: Zomato Landing Page
+﻿## Assignment: Zomato Landing Page
 
 ### Problem Statement
 
