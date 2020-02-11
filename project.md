@@ -5,7 +5,7 @@
 You are working for Zomato and your stakeholders expect you to build the landing page of the application.
 
 
-The images are provided to you in the boilerplate repo and you will get once you start the project on GLabs. 
+The images are provided to you in the boilerplate repo you will get once you start the project. 
 
 |Normal View|Responsive View|
 |--|--|
@@ -102,8 +102,8 @@ User should have access to order a food on their prime location.
 
 User should have access to quick searches based on food type.
 
-*Reference image:*
-![](images/us_4.PNG)
+# *Reference image:*
+![](images/us_4.png)
 
 
 
@@ -130,7 +130,7 @@ User should have access to quick searches based on food type.
 User should have understanding of popular localities in and around <u>`your location`</u>.
 
 *Reference image:*
-![](images/us_5.PNG)
+![](images/us_5.png)
 
 
 #### Details :
@@ -156,7 +156,7 @@ User should have understanding of popular localities in and around <u>`your loca
 User should have footer widget with `About Zomato` , `For Foodies` and `For Restaurant` information.
 
 *Reference image:*
-![](images/us_6.PNG)
+![](images/us_6.png)
 
 
 #### Details :
