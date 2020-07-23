@@ -7,7 +7,7 @@
     "start": "sass style.scss style.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rahul Shetty",
+  "author": "Mr. Rahul Shetty",
   "license": "ISC",
   "dependencies": {
     "sass": "^1.23.7"
